@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.container{
+    background-color: rgb(89, 89, 248);
+    height: 100vh;
+    width: 250px;
+    color: white;
+    font-size: 1.8em;
+    text-align: center;
+    align-items: center;
+    padding-left: 50px;
+    padding-top: 70px;
+    
+}
+
+.icon-first{
+    position: absolute;
+    top: 0;
+    left: 18%;
+
+}
+
+.icon1{
+    display: flex;
+    margin-top: 30px;
+    gap: 10px;
+    color: darkturquoise;
+}
+
+.icon2{
+    display: flex;
+    margin-top: 30px;
+    gap: 10px;
+}
+
+.icon3{
+    display: flex;
+    margin-top: 30px;
+    gap: 10px;
+}
+
+.icon4{
+    display: flex;
+    margin-top: 30px;
+    gap: 10px;
+}
+
+.icon5{
+    display: flex;
+    margin-top: 30px;
+    gap: 10px;
+}
+
+
+.container2{
+
+    position: absolute;
+    left: 23%;
+    color: black;
+    top: 20px;
+    display: flex;
+    gap: 30px;
+}
+
+.container2 i{
+    color: darkturquoise;
+}
+
+.bart1{
+    background-color: rgb(252, 150, 116);
+    padding: 17px 50px;
+    border-bottom: 5px solid yellow;
+    
+}
+
+.bart1 p{
+    font-size: 0.6em;
+    
+}
+
+.bart2{
+    background-color: rgb(119, 239, 141);
+    padding: 17px 50px;
+    border-bottom: 5px solid yellow;
+    
+}
+
+.bart2 p{
+    font-size: 0.6em;
+    
+}
+
+
+.bart3{
+    background-color: rgb(156, 67, 37);
+    padding: 17px 20px;
+    border-bottom: 5px solid yellow;
+    
+}
+
+.bart3 p{
+    font-size: 0.6em;
+    
+}
